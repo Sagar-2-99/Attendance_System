@@ -1,0 +1,4 @@
+enum Roles {
+  TA,
+  Professor
+}
