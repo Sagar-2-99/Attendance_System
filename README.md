@@ -1,6 +1,7 @@
 
 # AI-Based Student Attendance System
 
+![face-recognition-based-attendance-system](https://github.com/Sagar-2-99/Attendance_System/assets/32218238/61264813-ae00-4114-b45a-00d581eaf980)
 
 
 This project implements an AI-based attendance system where students are registered according to their courses. During class, you can take a photo of the entire class, and the system will automatically mark the attendance of all students. This system is designed to be highly efficient and convenient, requiring only a mobile device and an internet connection. It also features load management to handle high volumes of photos effectively.
