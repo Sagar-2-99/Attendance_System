@@ -69,3 +69,9 @@ python app.py
  
 4. During the class, take a photo of the entire class. The system will automatically process the photo and mark the attendance of all recognized students.
 ## How to use mobile app
+<img width="810" alt="Screenshot 2024-07-11 at 11 13 17" src="https://github.com/user-attachments/assets/55e3a593-a14d-433c-93a8-0b2626166af3">
+Use this ip and port for the initial setup
+![2](https://github.com/user-attachments/assets/d3759b0c-959f-413a-90e5-20cab46dcb9a)
+![3](https://github.com/user-attachments/assets/d85ea15b-b97a-46b0-95e6-3f7005998f59)
+
+
