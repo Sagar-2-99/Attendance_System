@@ -77,4 +77,10 @@ Use this ip and port for the initial setup
 
 ![3](https://github.com/user-attachments/assets/d85ea15b-b97a-46b0-95e6-3f7005998f59)
 
+![4](https://github.com/user-attachments/assets/b6a328e1-48ec-4760-b72d-59cb0459f325)
+
+![5](https://github.com/user-attachments/assets/2796b370-889b-4c35-a7e6-f5a49beedec5)
+
+![6](https://github.com/user-attachments/assets/4643e7b9-67bd-43b1-90d1-cbed71ac3038)
+
 
